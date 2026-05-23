@@ -48,7 +48,7 @@ Originál dodává Syncros (Drop-In pro Addict CX MY16 používá stejné SHIS k
 
 ### Aktuálně koupeno (zásoba)
 
-- **Syncros Headset Drop In 1 1/8 – 1 1/2 inch for Scott Scale & Spark MY17 — IS42/28.6 | IS52/40** (set obou ložisek), 1× — BIKE24 obj. 126242274 (2026-04-24). Marketingově určené pro Scott Scale & Spark MY17, ale SHIS kódy přesně sedí na Addict Gravel 2020.
+- **Syncros Headset Drop In 1 1/8 – 1 1/2 inch for Scott Scale & Spark MY17 — IS42/28.6 | IS52/40** (set obou ložisek), 1× — BIKE24 obj. 126242274 (2026-04-24). Marketingově určené pro Scott Scale & Spark MY17, ale SHIS kódy přesně sedí na Addict Gravel 2020. ✅ **Namontováno 2026-05-23 — sedí bez problému.**
 
 ### Zdroje k ověření
 
@@ -73,7 +73,7 @@ Carbon steerer **nesmí** mít star nut (hvězdička). Místo ní je tam **expan
 
 ### Kompatibilní výrobky
 
-- **Token Cycling PowerHead BAP-03 Expander Set Carbon 1 1/8** ✅ — koupeno BIKE24 obj. 126242274 (2026-04-24), aktuálně v zásobě
+- **BBB Cycling PowerHead BAP-03 Expander Set Carbon 1 1/8** ✅ — koupeno BIKE24 obj. 126242274 (2026-04-24), **namontováno 2026-05-23 — sedí, drží.**
 - Wolf Tooth Compression Plug 1 1/8" — [wolftoothcomponents.com](https://www.wolftoothcomponents.com/products/compression-plug-1) (utahovací moment 5–7 Nm)
 - FSA, Ritchey, Cane Creek Ancora — všechny 1 1/8" verze fungují
 - OEM Syncros expander (pokud je ještě v originálu, není důvod měnit)
@@ -122,12 +122,12 @@ Pozn.: některé zdroje uvádí ID 17.8 mm místo 18.0 mm — to je záměrný l
 
 ### Aktuálně koupeno (zásoba)
 
-- **DT Swiss Ball Bearing 6903 18×30×7mm**, 2× ✅ — BIKE24 obj. 126242274 (2026-04-24), připraveno k výměně.
+- **DT Swiss Ball Bearing 6903 18×30×7mm**, 2× ✅ — BIKE24 obj. 126242274 (2026-04-24), **vyměněno 2026-05-23 — sedí.**
 
 ### TODO
 - [x] ~~Demontovat přední náboj, odečíst značení~~ — XERO-18307 (= DT 18307 = 6903-18mm, 18×30×7)
 - [x] ~~Koupit pár ložisek do zásoby~~ — DT Swiss originál 18307, 2× (BIKE24, 2026-04-24)
-- [ ] Při výměně zaznamenat datum a stav původních ložisek
+- [x] ~~Při výměně zaznamenat datum a stav původních ložisek~~ — vyměněno 2026-05-23 (stav původních doplnit, pokud jsi měřil/fotil)
 
 ---
 
@@ -289,7 +289,7 @@ Soubor: `BIKE24 - Receipt order no. 126242274 of April 24, 2026.eml` (uloženo v
 
 | Ks | Položka | Jedn. cena |
 |---|---|---|
-| 1 | Token Cycling PowerHead BAP-03 Expander Set Carbon 1 1/8 | — |
+| 1 | BBB Cycling PowerHead BAP-03 Expander Set Carbon 1 1/8 | — |
 | 2 | DT Swiss Ball Bearing - 6903 - 18×30×7mm | 10,56 EUR |
 | 1 | Syncros Headset Drop In 1 1/8 – 1 1/2 inch (Scott Scale & Spark MY17, IS42/28.6 + IS52/40) | — |
 | 2 | Shimano Disc Brake Pads - Metal - K04Ti-MX | 12,29 EUR |
