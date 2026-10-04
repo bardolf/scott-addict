@@ -204,8 +204,8 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 
 | Díl | Část. číslo | Stav | Zdroj |
 |---|---|---|---|
-| Řetěz | Shimano CN-HG701-11 | ✅ koupeno 2× | [kupkolo.cz](https://www.kupkolo.cz/retez-shimano-cn-hg701-11s-116-clanku-pro-elektrokolo-hyperglide-sil-tec-spojka_z104572/) |
-| Kazeta | Shimano XT CS-M8000 11-42T | ✅ koupeno | [kupkolo.cz](https://www.kupkolo.cz/kazeta-shimano-xt-11s-cs-m8000_z98138/) |
+| Řetěz | Shimano CN-HG701-11 | ✅ koupeno 6× (2× 2024-09, 4× 2025-08) | [kupkolo.cz](https://www.kupkolo.cz/retez-shimano-cn-hg701-11s-116-clanku-pro-elektrokolo-hyperglide-sil-tec-spojka_z104572/) |
+| Kazeta | Shimano XT CS-M8000 11-42T (⚠️ faktura kupkolo 2026-03-11 uvádí **11-40**, ověřit na kole) | ✅ koupeno | [kupkolo.cz](https://www.kupkolo.cz/kazeta-shimano-xt-11s-cs-m8000_z98138/) |
 | Kladky | Shimano Ultegra RD-R8000+ set | ✅ koupeno | [kupkolo.cz](https://www.kupkolo.cz/kladky-shimano-ultegra-rd-r8000-r8050-rx800-rx805-rx812_z104399/) |
 | Převodník | Shimano GRX 42T 11s | ✅ koupeno | (link doplnit) |
 
@@ -224,14 +224,14 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 
 | Díl | Část. číslo | Stav | Zdroj |
 |---|---|---|---|
-| **Brzdový kotouč** | Shimano Ultegra RT-CL800 Center Lock (s matkou) | ✅ koupeno | [kupkolo.cz](https://www.kupkolo.cz/kotouc-shimano-ultegra-rt-cl800-center-lock-vcetne-matice-s-vnitrnim-ozubenim_z123212/) |
+| **Brzdový kotouč** | Shimano Ultegra RT-CL800 Center Lock (s matkou), **160 mm** | ✅ koupeno 2× (kupkolo 2025-08) | [kupkolo.cz](https://www.kupkolo.cz/kotouc-shimano-ultegra-rt-cl800-center-lock-vcetne-matice-s-vnitrnim-ozubenim_z123212/) |
 | **Brzdové destičky (kupkolo)** | Shimano K04Ti Metal | ✅ koupeno | [kupkolo.cz](https://www.kupkolo.cz/silnicni-brzdove-desticky-shimano-k04ti-metal_z107363/) |
 | **Brzdové destičky (BIKE24)** | Shimano K04Ti-MX Metal | ✅ koupeno 2× | BIKE24 obj. 126242274 (2026-04-24) |
 
 **Pozn.:** K04Ti je správný typ pro BR-RX400 (flat-mount, gravel/road) — Shimano dělá K04 (resin), K04Ti (metal s titanovou nosnou destičkou). Kovové = lepší v mokru a sjezdu, hlučnější za sucha. K04Ti i K04Ti-MX jsou variantně stejné destičky, "MX" je MTB-orientovaný balení.
 
 ### TODO
-- [ ] Ověřit velikost rotoru (160/160 vs 160/140) — měřit nebo kouknout na současný
+- [ ] Ověřit velikost rotoru — kupované 2× 160 mm (kupkolo 2025-08), tedy nejspíš 160/160; potvrdit na kole
 
 ---
 
@@ -248,13 +248,17 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 | Díl | Část. číslo | Stav | Zdroj |
 |---|---|---|---|
 | **Omotávka řidítek** | PRO Pioneer Handlebar Tape - Performance EVA (3D embossed), černá | ✅ koupeno | BIKE24 obj. 126242274 (2026-04-24) |
-| **Bowden řazení** | Shimano Shift Cable MTB/Road, 1.2 mm SUS Stainless Steel, 2100 mm | ✅ koupeno 2× | BIKE24 obj. 126242274 (2026-04-24) |
+| **Lanko řazení** | Shimano Shift Cable MTB/Road, 1.2 mm SUS Stainless Steel, 2100 mm | ✅ koupeno 2× | BIKE24 obj. 126242274 (2026-04-24) |
 
 ---
 
-## 8. Plášťe
+## 8. Pláště
 
-- OEM: Schwalbe G-One Allround, 700×40C, TL-Easy
+| Plášť | Rozměr | Kdy | Hodnocení |
+|---|---|---|---|
+| Schwalbe G-One Allround, TL-Easy (OEM) | 700×40C | z výroby | — |
+| Schwalbe G-One Allround, TL-Easy, Bronze Skin | 622×40 (700×38/40C) | kupkolo 2023-11-01, 2× | — |
+| American Classic Kimberlite TLR, Black-Tan | 622×35 (700×35C) | kupkolo 2026-03-11, 4× | ❌ **na mokru hodně kloužou — znovu nekupovat** |
 
 ---
 
@@ -265,6 +269,20 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 | **Motorex Bike Grease 100 g** | univerzální tuk na ložiska, ořech (paulky), expander, stem-steerer interface | ✅ v zásobě |
 
 (Pozn.: na DT Star Ratchet by se hodil specifický DT Special Grease, ale tady mám 3-pawl Formula, kde je Motorex Bike Grease vhodný.)
+
+---
+
+## 🛒 Příští nákup (zapsáno 2026-10-04)
+
+| Ks | Položka | Co přesně | Stav |
+|---|---|---|---|
+| 1 | Řetěz | Shimano CN-HG701-11 (11s, 116 čl., Sil-Tec, spojka) — jako vždy | ✅ známo |
+| 2 | Brzdové destičky | Shimano K04Ti / K04Ti-MX Metal — jako vždy (2 páry = předek + zadek) | ✅ známo |
+| 2 | Pláště | **NE American Classic Kimberlite TLR 700×35C** (na mokru kloužou). Předtím byl Schwalbe G-One Allround TL-Easy 700×40C — vybrat (viz sekce 8) | ❓ vybrat |
+| 1 | Šroub hlavového složení (imbus) | Ozvěknutý, nejde vyndat → změřit nelze. Je to šroub z expanderu BBB BAP-03 (namontován 2026-05-23); rozměr výrobce neuvádí. **Nejjistější: koupit znovu celý BBB BAP-03 Expander Set Carbon 1 1/8** (BIKE24 21,34 EUR) — šroub v něm sedí zaručeně. Na vyndání starého: extraktor nebo zatlučený torx bit | ✅ řešení |
+| ~4 m | Bowden řazení (vnější plášť) | Shimano SIS-SP41 s mazivem, 4 mm, metráž, černý + koncovky 4 mm (minule kupkolo 2025-08) | ✅ známo |
+| 1 | Lanko řazení | Shimano nerez 1.2 mm, 2100 mm (kupkolo 2× 2024-09, BIKE24 2× 2026-04 — zkontrolovat, jestli nějaké nezbylo) | ✅ známo |
+| 1 | Muc-Off Ceramic Lube — náplň | Větší balení (~500 ml+); wet/dry a přesný objem neevidováno (v dodaných fakturách není) | ❓ doplnit |
 
 ---
 
@@ -296,18 +314,24 @@ Soubor: `BIKE24 - Receipt order no. 126242274 of April 24, 2026.eml` (uloženo v
 | 2 | Shimano Shift Cable - MTB/Road - 1.2mm Stainless Steel SUS - 2100mm | — |
 | 1 | PRO Pioneer Handlebar Tape - Performance EVA (3D embossed) - černá | — |
 
-### kupkolo.cz — historické nákupy (data neevidována)
+### kupkolo.cz — objednávky (z rekapitulací v `~/Downloads/scott/`)
 
-- Shimano Ultegra RT-CL800 brzdový kotouč Center Lock (s matkou)
-- Shimano K04Ti Metal brzdové destičky
-- Shimano CN-HG701-11 řetěz, 11s, 116 čl., Sil-Tec, se spojkou — 2×
-- Shimano Ultegra RD-R8000/R8050/RX800/RX805/RX812 kladky přehazovačky
-- Shimano Press-Fit SM-BB92-41B středové složení
-- Shimano XT 11s CS-M8000 kazeta
-- Shimano GRX 42T převodník 11s
+Zapsány jen položky týkající se kola (nářadí stručně). Některé položky (26" Marathon, sedlovka 30.9) patří zřejmě k jinému kolu.
+
+| Datum | Obj. | Položky (ks) |
+|---|---|---|
+| 2023-11-01 | 1090105 | Schwalbe G-One Allround TL-Easy Bronze Skin 622×40 (2× à 829 Kč); + mimo kolo: 26" Marathon, návleky, pumpička |
+| 2024-06-04 | 1175252 | Shimano K04Ti metal destičky (2× à 349 Kč) |
+| 2024-09-18 | 1229021 | CN-HG701-11 řetěz (2× à 639 Kč), K04Ti metal (2× à 349 Kč), řadicí lanko Shimano nerez 2100 mm (2× à 49 Kč), brzdové lanko Sting ST-662 (4×); nářadí: kleště na lanka, stahovák kazety, bičík, kónusové klíče 17 mm |
+| 2025-05-23 | 1321779 | mimo kolo (rukavice, trenažér Elite Direto XR) |
+| 2025-08-01 | 1369556 | RT-CL800 160 mm (2× à 879 Kč), K04Ti metal (2× à 399 Kč), CN-HG701-11 (4× à 579 Kč), kladky Ultegra RD-R8000 (1×), SM-BB92-41B (1×), bowden SIS-SP41 4 mm (4 m à 39 Kč), koncovky bowdenu 4 mm + koncovky lanek, minerální olej Shimano 1 l, odvzdušňovací sady, MAX1 Brake Cleaner; nářadí: Park Tool TW-5-2 + bity, lis Super B TB-19003, měrka řetězu CC-3-2; (sedlovka Force 30.9 + objímka 34.9 — jiné kolo?) |
+| 2025-12-25 | 1427268 | nářadí: momentový klíč Super B TB-TW25 2-15 Nm |
+| 2026-03-11 | 1454425 | **American Classic Kimberlite TLR 700×35C (4× à 679 Kč)**, Shimano XT CS-M8000 **11-40** (1×), Muc-Off čistič 5 l, Muc-Off Silicone Shine 500 ml, Muc-Off 3 Brush Set; nářadí: Super B TB-TW20 |
+
+Bez faktury (zdroj neznámý): Shimano GRX 42T převodník 11s.
 
 ### TODO pro nákupní historii
-- [ ] Doplnit data nákupu z kupkolo.cz (zkusit najít fakturu / e-maily)
+- [x] ~~Doplnit data nákupu z kupkolo.cz~~ — doplněno z rekapitulací (2026-10-04); chybí jen GRX 42T převodník a Muc-Off Ceramic Lube
 - [ ] Po každé budoucí objednávce sem zapsat: datum, dodavatele, čísla objednávky, položky
 
 ---
