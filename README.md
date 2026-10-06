@@ -267,6 +267,7 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 | Produkt | Použití | Stav |
 |---|---|---|
 | **Motorex Bike Grease 100 g** | univerzální tuk na ložiska, ořech (paulky), expander, stem-steerer interface | ✅ v zásobě |
+| **Muc-Off C3 Dry Ceramic Lube 300 ml** | mazivo na řetěz (dry) | ✅ koupeno 2× (bikeinn 2025-04-09) |
 
 (Pozn.: na DT Star Ratchet by se hodil specifický DT Special Grease, ale tady mám 3-pawl Formula, kde je Motorex Bike Grease vhodný.)
 
@@ -282,11 +283,17 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 | 1 | Šroub hlavového složení (imbus) | Ozvěknutý, nejde vyndat → změřit nelze. Je to šroub z expanderu BBB BAP-03 (namontován 2026-05-23); rozměr výrobce neuvádí. **Nejjistější: koupit znovu celý BBB BAP-03 Expander Set Carbon 1 1/8** (BIKE24 21,34 EUR) — šroub v něm sedí zaručeně. Na vyndání starého: extraktor nebo zatlučený torx bit | ✅ řešení |
 | ~4 m | Bowden řazení (vnější plášť) | Shimano SIS-SP41 s mazivem, 4 mm, metráž, černý + koncovky 4 mm (minule kupkolo 2025-08) | ✅ známo |
 | 1 | Lanko řazení | Shimano nerez 1.2 mm, 2100 mm (kupkolo 2× 2024-09, BIKE24 2× 2026-04 — zkontrolovat, jestli nějaké nezbylo) | ✅ známo |
-| 1 | Muc-Off Ceramic Lube — náplň | Větší balení (~500 ml+); wet/dry a přesný objem neevidováno (v dodaných fakturách není) | ❓ doplnit |
+| 1–2 | Mazivo na řetěz | **Muc-Off C3 Dry Ceramic Lube 300 ml** (minule bikeinn 2025-04, 2× à 600 Kč) | ✅ známo |
 
 ---
 
 ## Nákupní historie (chronologicky)
+
+### bikeinn — objednávka č. 57815248 (2025-04-09, celkem 1 324,97 Kč vč. dopravy)
+
+| Ks | Položka | Ref | Cena/ks |
+|---|---|---|---|
+| 2 | Muc-Off C3 Dry Ceramic Lube 300 ml | 17610964 | 599,99 Kč |
 
 ### Koloshop.cz — objednávka č. 2025105308 (2025-08-24, celkem 3 034 Kč vč. DPH)
 
@@ -331,7 +338,7 @@ Zapsány jen položky týkající se kola (nářadí stručně). Některé polo�
 Bez faktury (zdroj neznámý): Shimano GRX 42T převodník 11s.
 
 ### TODO pro nákupní historii
-- [x] ~~Doplnit data nákupu z kupkolo.cz~~ — doplněno z rekapitulací (2026-10-04); chybí jen GRX 42T převodník a Muc-Off Ceramic Lube
+- [x] ~~Doplnit data nákupu z kupkolo.cz~~ — doplněno z rekapitulací (2026-10-04); chybí jen GRX 42T převodník
 - [ ] Po každé budoucí objednávce sem zapsat: datum, dodavatele, čísla objednávky, položky
 
 ---
