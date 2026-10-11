@@ -74,6 +74,8 @@ Carbon steerer **nesmí** mít star nut (hvězdička). Místo ní je tam **expan
 ### Kompatibilní výrobky
 
 - **BBB Cycling PowerHead BAP-03 Expander Set Carbon 1 1/8** ✅ — koupeno BIKE24 obj. 126242274 (2026-04-24), **namontováno 2026-05-23 — sedí, drží.**
+  - ⚠️ **Karbonové víčko se zničilo** (a šroub ozvěknul) → příště **jen verze Aluminium** (BAP-03 Expander Set Aluminium 1 1/8, BIKE24 16,16 € k 2026-10-11). Karbonovou verzi už nekupovat. Šroub je hliníkový — utahovat momentovým klíčem, imbus zasunout na doraz.
+- **BBB Cycling PowerHead BAP-03 Expander Set Aluminium 1 1/8**, černá matná — koupeno BIKE24 obj. 2261473005 (2026-10-11), čeká na montáž (náhrada za zničené víčko + ozvěknutý šroub).
 - Wolf Tooth Compression Plug 1 1/8" — [wolftoothcomponents.com](https://www.wolftoothcomponents.com/products/compression-plug-1) (utahovací moment 5–7 Nm)
 - FSA, Ritchey, Cane Creek Ancora — všechny 1 1/8" verze fungují
 - OEM Syncros expander (pokud je ještě v originálu, není důvod měnit)
@@ -204,7 +206,7 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 
 | Díl | Část. číslo | Stav | Zdroj |
 |---|---|---|---|
-| Řetěz | Shimano CN-HG701-11 | ✅ koupeno 6× (2× 2024-09, 4× 2025-08) | [kupkolo.cz](https://www.kupkolo.cz/retez-shimano-cn-hg701-11s-116-clanku-pro-elektrokolo-hyperglide-sil-tec-spojka_z104572/) |
+| Řetěz | Shimano CN-HG701-11 | ✅ koupeno 9× (2× 2024-09, 4× 2025-08 kupkolo; 3× 2026-10 BIKE24) | [kupkolo.cz](https://www.kupkolo.cz/retez-shimano-cn-hg701-11s-116-clanku-pro-elektrokolo-hyperglide-sil-tec-spojka_z104572/) |
 | Kazeta | Shimano XT CS-M8000 11-42T (⚠️ faktura kupkolo 2026-03-11 uvádí **11-40**, ověřit na kole) | ✅ koupeno | [kupkolo.cz](https://www.kupkolo.cz/kazeta-shimano-xt-11s-cs-m8000_z98138/) |
 | Kladky | Shimano Ultegra RD-R8000+ set | ✅ koupeno | [kupkolo.cz](https://www.kupkolo.cz/kladky-shimano-ultegra-rd-r8000-r8050-rx800-rx805-rx812_z104399/) |
 | Převodník | Shimano GRX 42T 11s | ✅ koupeno | (link doplnit) |
@@ -227,6 +229,9 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 | **Brzdový kotouč** | Shimano Ultegra RT-CL800 Center Lock (s matkou), **160 mm** | ✅ koupeno 2× (kupkolo 2025-08) | [kupkolo.cz](https://www.kupkolo.cz/kotouc-shimano-ultegra-rt-cl800-center-lock-vcetne-matice-s-vnitrnim-ozubenim_z123212/) |
 | **Brzdové destičky (kupkolo)** | Shimano K04Ti Metal | ✅ koupeno | [kupkolo.cz](https://www.kupkolo.cz/silnicni-brzdove-desticky-shimano-k04ti-metal_z107363/) |
 | **Brzdové destičky (BIKE24)** | Shimano K04Ti-MX Metal | ✅ koupeno 2× | BIKE24 obj. 126242274 (2026-04-24) |
+| **Brzdové destičky (BIKE24)** | Shimano L04C-MF Metal Ice-Tech (s žebry) | ✅ koupeno 4× | BIKE24 obj. 2261473005 (2026-10-11) |
+
+**Alternativa:** Shimano **L04C-MF** (metal, Ice-Tech, s chladicími žebry) — L-type je finned verze K-type tvaru, na BR-RX400 pasuje (zaměnitelné s K04Ti, výjimkou je jen XTR BR-M9100). Kovová směs vyžaduje Ice-Tech / broušené kotouče — RT-CL800 vyhovuje.
 
 **Pozn.:** K04Ti je správný typ pro BR-RX400 (flat-mount, gravel/road) — Shimano dělá K04 (resin), K04Ti (metal s titanovou nosnou destičkou). Kovové = lepší v mokru a sjezdu, hlučnější za sucha. K04Ti i K04Ti-MX jsou variantně stejné destičky, "MX" je MTB-orientovaný balení.
 
@@ -249,16 +254,21 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 |---|---|---|---|
 | **Omotávka řidítek** | PRO Pioneer Handlebar Tape - Performance EVA (3D embossed), černá | ✅ koupeno | BIKE24 obj. 126242274 (2026-04-24) |
 | **Lanko řazení** | Shimano Shift Cable MTB/Road, 1.2 mm SUS Stainless Steel, 2100 mm | ✅ koupeno 2× | BIKE24 obj. 126242274 (2026-04-24) |
+| **Lanko řazení** | Shimano Shift Cable MTB/Road, 1.2 mm Stainless Steel OPTISLICK, 2100 mm | ✅ koupeno 2× | BIKE24 obj. 2261473005 (2026-10-11) |
+| **Bowden řazení** | Shimano OT-SP41, 2000 mm, černý (koncovky 4 mm doma) | ✅ koupeno 1× | BIKE24 obj. 2261473005 (2026-10-11) |
 
 ---
 
 ## 8. Pláště
+
+**Jezdím s dušemi** (ne tubeless), i když pláště i ráfky jsou TLR/tubeless ready.
 
 | Plášť | Rozměr | Kdy | Hodnocení |
 |---|---|---|---|
 | Schwalbe G-One Allround, TL-Easy (OEM) | 700×40C | z výroby | — |
 | Schwalbe G-One Allround, TL-Easy, Bronze Skin | 622×40 (700×38/40C) | kupkolo 2023-11-01, 2× | — |
 | American Classic Kimberlite TLR, Black-Tan | 622×35 (700×35C) | kupkolo 2026-03-11, 4× | ❌ **na mokru hodně kloužou — znovu nekupovat** |
+| **Pirelli Cinturato All Road, Classic** | 40-622 | BIKE24 2026-10-11, 2× | 🟡 zatím nejeto — BRR: wet grip 69, průraz 80 b., běhoun 4,40 mm, 3,5/5 |
 
 ---
 
@@ -267,23 +277,18 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 | Produkt | Použití | Stav |
 |---|---|---|
 | **Motorex Bike Grease 100 g** | univerzální tuk na ložiska, ořech (paulky), expander, stem-steerer interface | ✅ v zásobě |
-| **Muc-Off C3 Dry Ceramic Lube 300 ml** | mazivo na řetěz (dry) | ✅ koupeno 2× (bikeinn 2025-04-09) |
+| **Muc-Off C3 Dry Ceramic Lube 300 ml** | mazivo na řetěz (dry) | ✅ koupeno 4× (2× bikeinn 2025-04-09, 2× BIKE24 2026-10-11) |
 
 (Pozn.: na DT Star Ratchet by se hodil specifický DT Special Grease, ale tady mám 3-pawl Formula, kde je Motorex Bike Grease vhodný.)
 
 ---
 
-## 🛒 Příští nákup (zapsáno 2026-10-04)
+## 🛒 Příští nákup
 
-| Ks | Položka | Co přesně | Stav |
-|---|---|---|---|
-| 1 | Řetěz | Shimano CN-HG701-11 (11s, 116 čl., Sil-Tec, spojka) — jako vždy | ✅ známo |
-| 2 | Brzdové destičky | Shimano K04Ti / K04Ti-MX Metal — jako vždy (2 páry = předek + zadek) | ✅ známo |
-| 2 | Pláště | **NE American Classic Kimberlite TLR 700×35C** (na mokru kloužou). Předtím byl Schwalbe G-One Allround TL-Easy 700×40C — vybrat (viz sekce 8) | ❓ vybrat |
-| 1 | Šroub hlavového složení (imbus) | Ozvěknutý, nejde vyndat → změřit nelze. Je to šroub z expanderu BBB BAP-03 (namontován 2026-05-23); rozměr výrobce neuvádí. **Nejjistější: koupit znovu celý BBB BAP-03 Expander Set Carbon 1 1/8** (BIKE24 21,34 EUR) — šroub v něm sedí zaručeně. Na vyndání starého: extraktor nebo zatlučený torx bit | ✅ řešení |
-| ~4 m | Bowden řazení (vnější plášť) | Shimano SIS-SP41 s mazivem, 4 mm, metráž, černý + koncovky 4 mm (minule kupkolo 2025-08) | ✅ známo |
-| 1 | Lanko řazení | Shimano nerez 1.2 mm, 2100 mm (kupkolo 2× 2024-09, BIKE24 2× 2026-04 — zkontrolovat, jestli nějaké nezbylo) | ✅ známo |
-| 1–2 | Mazivo na řetěz | **Muc-Off C3 Dry Ceramic Lube 300 ml** (minule bikeinn 2025-04, 2× à 600 Kč) | ✅ známo |
+Nákup ze 2026-10-04 objednán → BIKE24 obj. 2261473005 (2026-10-11), viz nákupní historie.
+
+Zbývá:
+- [ ] Duše na 40 mm plášť (rozsah cca 35–45 mm, galuska) — zkontrolovat doma, jestli nejsou jen 35mm od Kimberlite
 
 ---
 
@@ -320,6 +325,23 @@ Soubor: `BIKE24 - Receipt order no. 126242274 of April 24, 2026.eml` (uloženo v
 | 2 | Shimano Disc Brake Pads - Metal - K04Ti-MX | 12,29 EUR |
 | 2 | Shimano Shift Cable - MTB/Road - 1.2mm Stainless Steel SUS - 2100mm | — |
 | 1 | PRO Pioneer Handlebar Tape - Performance EVA (3D embossed) - černá | — |
+
+### BIKE24 — objednávka č. 2261473005 (2026-10-11, celkem 330,53 EUR vč. DPH a dopravy 2,99 EUR)
+
+Dodání do ČR 3–6 pracovních dní. Platba kartou.
+
+| Ks | Položka | Jedn. cena |
+|---|---|---|
+| 1 | Shimano Shift Cable Housing - OT-SP41 - 2000mm, černý | 3,45 EUR |
+| 2 | Pirelli Cinturato All Road Folding Tire - 40-622 \| Classic | 31,51 EUR |
+| 3 | Shimano CN-HG701-11 Chain 11-speed - with Quick Link - 116 links | 25,41 EUR |
+| 4 | Shimano Disc Brake Pads - Metal \| Ice-Tech - L04C-MF | 15,75 EUR |
+| 1 | BBB Cycling PowerHead BAP-03 Expander Set Aluminium 1 1/8, černá matná | 16,16 EUR |
+| 2 | Shimano Shift Cable - MTB/Road \| 1.2mm \| Stainless Steel \| OPTISLICK - 2100mm | 5,18 EUR |
+| 2 | Muc-Off C3 Dry Ceramic Lube - 300 ml | 27,24 EUR |
+| 1 | Topeak PowerLink Pliers (kleště na rychlospojku — náhrada za rozbité; Park Tool MLP-1.2 nebyly skladem) | 9,95 EUR |
+| 1 | SKS Race Saddlebag - 0.4L (podsedlová brašna) | 19,11 EUR |
+| 1 | Muc-Off Tool Bottle 450ml (nádoba na nářadí do košíku) | 11,78 EUR |
 
 ### kupkolo.cz — objednávky (z rekapitulací v `~/Downloads/scott/`)
 
