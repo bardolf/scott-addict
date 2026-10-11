@@ -288,7 +288,9 @@ Přechod z 2×11 (46/30 × 11-34) na 1×11 (42 × 11-42) zachoval podobný **roz
 Nákup ze 2026-10-04 objednán → BIKE24 obj. 2261473005 (2026-10-11), viz nákupní historie.
 
 Zbývá:
-- [ ] Duše na 40 mm plášť (rozsah cca 35–45 mm, galuska) — zkontrolovat doma, jestli nejsou jen 35mm od Kimberlite
+- [x] ~~Duše na 40 mm plášť~~ — doma jsou (2026-10-11)
+
+Nic dalšího v plánu.
 
 ---
 
